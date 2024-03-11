@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633191078563",
+    "project_id": "file-manager-ddb45",
+    "storage_bucket": "file-manager-ddb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633191078563:android:f3d3ff699da002bb157d16",
+        "android_client_info": {
+          "package_name": "com.example.filemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4HP4jnsuQI52tKhFZxEA5zYnLz5Pvaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
